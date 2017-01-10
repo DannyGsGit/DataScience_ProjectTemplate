@@ -40,5 +40,5 @@ When starting a new project, clone this repository to your new project's empty G
   * **/Models**
     * **ModelReportN.md (multiple)** - Detailed reports of model attributes and performance
 
-## Citations
+## Attributions
 This is built upon the Microsoft [Team Data Science Process](https://blogs.technet.microsoft.com/machinelearning/2016/10/11/introducing-the-team-data-science-process-from-microsoft/)
